@@ -16,7 +16,7 @@ This repository contains four C++ mini projects created during my Codesoft Inter
 1. Open [GDB Online Compiler](https://www.onlinegdb.com/).
 2. Copy the code from the required `.cpp` file.
 3. Paste it into the editor.
-4. Choose **C++ (GCC)** as the language.
+4. Choose **C++** as the language.
 5. Click **Run** to execute the program.
 
 ##
